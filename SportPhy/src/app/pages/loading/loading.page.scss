@@ -1,0 +1,8 @@
+.bg {
+    //background-color: #280782;
+    background: 
+    radial-gradient(circle at 10% 100%, #280782, transparent 95%), //abajo
+    radial-gradient(circle at 50% 0%, #280782, transparent 50%),   // arriba
+    radial-gradient(circle at 80% 70%, #0892d5, transparent 40%), // derecha
+    radial-gradient(ellipse at 0% 30%, #0892d5, transparent 60%);   // izquierda
+    }
